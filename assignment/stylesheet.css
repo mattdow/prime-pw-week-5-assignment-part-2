@@ -8,9 +8,11 @@ body {
   background-color: #262A53;
   color: #FFE3E3;
   text-align: center;
+  font-family: Georgia, serif;
 }
 
 .main {
   background-color: lightgrey;
   padding: 1em;
+  font-family: Verdana, sans-serif;
 }
